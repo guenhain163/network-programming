@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hain/Documents/THLTM/Lab01/build",
+  "command": "/usr/bin/c89-gcc   -g   -o CMakeFiles/Account.dir/llist.c.o   -c /home/hain/Documents/THLTM/Lab01/llist.c",
+  "file": "/home/hain/Documents/THLTM/Lab01/llist.c"
+}
+]

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.scss": "scss",
+        "ctype.h": "c",
+        "string.h": "c"
+    }
+}
